@@ -12,6 +12,8 @@ import java.util.Set;
 /**
  *
  * @author marcorosas
+ * @author winsonso
+ * @author landonwoolley
  */
 public class TrueClassifier extends Experimenter {
     public Map<SocialMediaEntry, Boolean> classifyEntries(Set<SocialMediaEntry> trainingSet,

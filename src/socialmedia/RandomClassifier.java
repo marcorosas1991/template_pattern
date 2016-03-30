@@ -13,6 +13,8 @@ import java.util.Random;
 /**
  *
  * @author marcorosas
+ * @author winsonso
+ * @author landonwoolley
  */
 public class RandomClassifier extends Experimenter {
     public Map<SocialMediaEntry, Boolean> classifyEntries(Set<SocialMediaEntry> trainingSet,
